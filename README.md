@@ -4,7 +4,7 @@
 3. Kubernetes
 4. Helm Chart
 5. CI/CD
-6. ArgoCD
+6. GitOps & ArgoCD
 7. Jenkins
 8. Git / GitLab
 9. Sonarqube
